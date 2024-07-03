@@ -1,0 +1,6 @@
+Install python 3.8, and add py.exe/python.exe to path
+run 1.bat
+run 2.bat
+run 3.bat
+
+If any errors open a cmd prompt via the nav bar and run pip install -r requirements.txt
