@@ -1,0 +1,10 @@
+This is undetected on all games (minus valorant)
+On fortnite, use with caution. This program uses mouse events to send the input, which will get you banned after like 2 reports, and insta ban in tourneys. Or any
+EAC based games.
+
+I might eventually remake + use arduino/kmbox to make undetected, but as of now use it on games with shitty anticheats, like Project Nova, PUBG, or any BattlEye game.
+
+This was designed for skidders to sell and hopefully scam a bunch of little kids lmfao. IDRC what you do with it. It is intended to be sold. But at least modify/give me 
+credit. Thx
+
+-royalxvirus <3
